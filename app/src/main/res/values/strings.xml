@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">miaplicacion</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1714119018861784</string>
+    <string name="app_nameg">G+ Login</string>
+    <string name="action_settingsg">Settings</string>
+    <!-- Button text -->
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="title_activity_main_activityhome">MainActivityhome</string>
+</resources>
